@@ -10,6 +10,7 @@ struct mahasiswa
     string alamat; 
 };
 
+
 int main(){
     mahasiswa mhs;
 
