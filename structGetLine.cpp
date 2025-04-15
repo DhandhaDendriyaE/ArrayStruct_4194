@@ -15,6 +15,7 @@ struct mahasiswa
     detailAlamat alamat;
 };
 
+
 int main(){
     mahasiswa mhs;
 
